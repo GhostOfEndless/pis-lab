@@ -2,7 +2,9 @@
 
 ## 1. Макеты страницы/функции/фичи
 
-*Примечание: Макеты должны быть предоставлены дизайнером*
+![alt text](lr_4_mapping_1.png)
+![alt text](LR_4_mapping_2.png)
+![alt text](LR_4_mapping_3.png)
 
 ## 2. SEO
 
